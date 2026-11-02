@@ -6,7 +6,4 @@ public class CategoriaController {
         this.SetNome(nome);
     }
 
-    public String getNome(){
-        return nome;
-    }
 }

@@ -1,4 +1,4 @@
-package com.projeto.Repository;
+package com.projeto.repository;
 
 public class ProdutoRepository {
     
