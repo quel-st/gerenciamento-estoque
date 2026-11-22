@@ -1,9 +1,9 @@
-package com.projeto.gerenciamento_estoque;
+package com.Projeto.gerenciamento_estoque;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = "com.Projeto")
 public class GerenciamentoEstoqueApplication {
 
 	public static void main(String[] args) {

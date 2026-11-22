@@ -1,4 +1,4 @@
-package com.projeto.service;
+package com.Projeto.Service;
 
 public class CategoriaService {
     

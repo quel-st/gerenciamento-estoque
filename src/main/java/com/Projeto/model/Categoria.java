@@ -1,4 +1,4 @@
-package com.projeto.model;
+package com.Projeto.model;
 
 
 public class Categoria {

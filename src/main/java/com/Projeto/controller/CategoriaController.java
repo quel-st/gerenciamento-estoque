@@ -1,4 +1,4 @@
-package com.projeto.controller;
+package com.Projeto.controller;
 
 public class CategoriaController {
 
