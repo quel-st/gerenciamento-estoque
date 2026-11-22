@@ -1,11 +1,11 @@
-package com.projeto.repository;
+package com.Projeto.Repository;
 
-import com.projeto.model.Categoria;
-import com.projeto.model.Produto;
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.Projeto.model.Categoria;
 
 public interface CategoriaRepository extends JpaRepository<Categoria, Long> {
     // Buscar categoria pelo nome
