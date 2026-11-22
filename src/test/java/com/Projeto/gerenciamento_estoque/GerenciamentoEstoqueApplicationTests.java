@@ -8,6 +8,7 @@ class GerenciamentoEstoqueApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
