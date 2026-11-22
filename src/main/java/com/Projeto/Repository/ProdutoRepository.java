@@ -1,10 +1,11 @@
 package com.projeto.repository;
-import com.projeto.model.*;
-import org.springframework.data.jpa.repository.JpaRepository;
-
 import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.projeto.model.Produto;
 
 public interface ProdutoRepository extends JpaRepository<Produto, UUID> {
 
