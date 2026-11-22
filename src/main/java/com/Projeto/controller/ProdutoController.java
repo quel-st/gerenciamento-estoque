@@ -1,4 +1,4 @@
-package com.Projeto.controller;
+package com.projeto.controller;
 
 import java.math.BigDecimal;
 import java.util.List;
@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.Projeto.Service.ProdutoService;
+import com.projeto.service.ProdutoService;
 
 @RestController
 @RequestMapping("/produtos")

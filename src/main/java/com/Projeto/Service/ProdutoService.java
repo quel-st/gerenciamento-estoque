@@ -1,4 +1,4 @@
-package com.Projeto.Service;
+package com.projeto.service;
 
 import java.math.BigDecimal;
 import java.util.List;
